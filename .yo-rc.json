@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jblogapp"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "jblog",
+    "packageName": "com.jblogapp",
+    "packageFolder": "com/jblogapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzhmNmZmNmJlNTVkZjk1YzYwOGIzZmQ3MmE0ZmM4NDUyOTE1YTI0M2FiOTcwN2VlMTRlNWRlZmU4YjNkZGI5MWIxMjIwYzViMzkwMmVhMzQxZjc5NDAwOWNiMzVmZmEyNDI2MmE5ZGE4Y2Y2ZmQzNjAxYjVhNjIwMDg0MTcyM2M=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1602709053587,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
